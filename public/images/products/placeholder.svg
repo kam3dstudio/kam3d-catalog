@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#e9ecf1"/>
+  <rect x="40" y="40" width="320" height="320" rx="16" fill="#cfd8e3"/>
+  <text x="200" y="210" font-family="Arial, sans-serif" font-size="22" fill="#5b6b7c" text-anchor="middle">Chưa có ảnh sản phẩm</text>
+</svg>

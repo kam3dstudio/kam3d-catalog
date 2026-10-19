@@ -1,0 +1,37 @@
+[
+  {
+    "id": "clicker-mocka",
+    "name": "Clicker và móc khóa",
+    "description": "Clicker đồ chơi và móc khóa in 3D nhiều kiểu dáng, màu sắc.",
+    "active": true,
+    "sortOrder": 1
+  },
+  {
+    "id": "do-choi-3d",
+    "name": "Đồ chơi 3D",
+    "description": "Mô hình, đồ chơi in 3D cho trẻ em và người lớn.",
+    "active": true,
+    "sortOrder": 2
+  },
+  {
+    "id": "ca-nhan-hoa",
+    "name": "Sản phẩm cá nhân hóa",
+    "description": "In theo tên, hình ảnh hoặc yêu cầu riêng của khách.",
+    "active": true,
+    "sortOrder": 3
+  },
+  {
+    "id": "phu-kien",
+    "name": "Phụ kiện",
+    "description": "Phụ kiện tiện ích cho điện thoại, bàn làm việc, nhà cửa.",
+    "active": true,
+    "sortOrder": 4
+  },
+  {
+    "id": "san-pham-khac",
+    "name": "Sản phẩm khác",
+    "description": "Các sản phẩm in 3D khác theo yêu cầu.",
+    "active": true,
+    "sortOrder": 5
+  }
+]
