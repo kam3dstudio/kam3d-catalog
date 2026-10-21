@@ -1,13 +1,13 @@
 {
-  "brandName": "KAM 3D Studio",
+  "brandName": "Kam 3D Catalog",
   "tagline": "In 3D theo yêu cầu - Nhanh, đẹp, giá tốt",
-  "heroTitle": "KAM 3D Studio",
-  "heroDescription": "Chuyên in 3D clicker, móc khóa, đồ chơi và quà tặng cá nhân hóa theo yêu cầu. Nhận thiết kế theo mẫu, theo ảnh hoặc theo ý tưởng của bạn.",
+  "heroTitle": "Kam 3D Catalog",
+  "heroDescription": "Chuyên in 3D clicker, móc khóa, đồ chơi và quà tặng cá nhân hóa theo yêu cầu.",
   "logoPath": "/images/logo/logo.svg",
-  "heroImage": "/images/banner/hero-banner.svg",
-  "phone": "0900 000 000",
-  "zaloUrl": "https://zalo.me/0900000000",
+  "heroImage": "/images/banner/hero-banner-2.jpg",
+  "phone": "0397 268 836",
+  "zaloUrl": "https://zalo.me/0397268836",
   "facebookUrl": "https://facebook.com/kam3dstudio",
   "contactLabel": "Liên hệ qua Zalo",
-  "footerText": "KAM 3D Studio - Sản phẩm in 3D thủ công, làm theo yêu cầu."
+  "footerText": "Kam 3D Catalog - Sản phẩm in 3D thủ công, làm theo yêu cầu."
 }

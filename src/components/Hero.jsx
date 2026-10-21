@@ -6,9 +6,8 @@ export default function Hero({ site }) {
   return (
     <section id="top" className="hero">
       <img src={site.heroImage} alt="" className="hero-bg" aria-hidden="true" />
+      <h1 className="sr-only">{site.heroTitle}</h1>
       <div className="container hero-content">
-        <h1>{site.heroTitle}</h1>
-        <p>{site.heroDescription}</p>
         <button className="btn btn-primary btn-large" onClick={scrollToCatalog}>
           Khám phá sản phẩm
         </button>
