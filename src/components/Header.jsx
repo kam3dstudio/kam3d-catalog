@@ -11,10 +11,6 @@ export default function Header({ site }) {
   return (
     <header className="header">
       <div className="container header-inner">
-        <a href="#top" className="header-brand" aria-label={site.brandName}>
-          <img src={site.logoPath} alt={site.brandName} className="header-logo" />
-        </a>
-
         <nav className={`header-nav ${menuOpen ? "is-open" : ""}`} aria-label="Điều hướng chính">
           <button className="nav-link" onClick={() => scrollTo("catalog")}>
             Sản phẩm

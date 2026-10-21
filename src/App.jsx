@@ -2,8 +2,8 @@ import { useMemo, useState } from "react";
 import productsData from "./data/products.json";
 import categoriesData from "./data/categories.json";
 import siteData from "./data/site.json";
-import Header from "./components/Header.jsx";
 import Hero from "./components/Hero.jsx";
+import Header from "./components/Header.jsx";
 import CategoryNav from "./components/CategoryNav.jsx";
 import SearchFilter from "./components/SearchFilter.jsx";
 import ProductGrid from "./components/ProductGrid.jsx";
@@ -34,8 +34,8 @@ export default function App() {
 
   return (
     <div className="app">
-      <Header site={siteData} />
       <Hero site={siteData} />
+      <Header site={siteData} />
       <main id="catalog" className="container">
         <CategoryNav
           categories={activeCategories}

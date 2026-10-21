@@ -9,13 +9,9 @@
 .header-inner {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   padding-top: 10px;
   padding-bottom: 10px;
-}
-
-.header-logo {
-  height: 36px;
 }
 
 .header-nav {
@@ -56,6 +52,10 @@
 }
 
 @media (min-width: 768px) {
+  .header-inner {
+    justify-content: center;
+  }
+
   .header-nav {
     display: flex;
   }
